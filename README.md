@@ -10,8 +10,8 @@
 [<img src="https://cdn-icons.flaticon.com/png/128/3488/premium/3488338.png?token=exp=1640534024~hmac=d51d17de664d7661a84c72401f86d77e" width=25>][Linkedin]
 [<img src="https://cdn-icons.flaticon.com/png/128/3938/premium/3938036.png?token=exp=1640534211~hmac=4d054efd58440c2c3501af0af3955384" width=25>][instagram]
 
-[instagram]:["https://instagram.com/aizatesen1?utm_medium=copy_link"]
-[Linkedin]:["https://www.linkedin.com/in/aizatesenbekova"]
+[instagram]:https://instagram.com/aizatesen1?utm_medium=copy_link
+[Linkedin]:https://www.linkedin.com/in/aizatesenbekova
 <!--
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
