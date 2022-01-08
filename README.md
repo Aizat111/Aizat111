@@ -9,21 +9,25 @@
 ### Reach out to me
 [<img src="https://cdn-icons.flaticon.com/png/128/3488/premium/3488338.png?token=exp=1640534024~hmac=d51d17de664d7661a84c72401f86d77e" width=25>][Linkedin]
 [<img src="https://cdn-icons.flaticon.com/png/128/3938/premium/3938036.png?token=exp=1640534211~hmac=4d054efd58440c2c3501af0af3955384" width=25>][instagram]
-<br/>
-### Tech I use
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width=25>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width=29>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width=29>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width=29>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width=25>
 
 
 
 
+
+### Tech I use 
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="29" height="25"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="29" height="25"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="29" height="25"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width="25" height="25"/>
 
 [instagram]:https://instagram.com/aizatesen1?utm_medium=copy_link
 [Linkedin]:https://www.linkedin.com/in/aizatesenbekova
+
+
 <!--
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
