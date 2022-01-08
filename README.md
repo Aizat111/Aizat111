@@ -7,8 +7,8 @@
 - 🌱 I’m currently learning php, java script, .net Core and Python
 
 ### Reach out to me
-[ <img width="25" src="https://cdn-icons.flaticon.com/png/128/3488/premium/3488338.png?token=exp=1640534024~hmac=d51d17de664d7661a84c72401f86d77e"  align="left" />][Linkedin]
-[ <img width="25" src="https://cdn-icons.flaticon.com/png/128/3938/premium/3938036.png?token=exp=1640534211~hmac=4d054efd58440c2c3501af0af3955384" align="left"  />][instagram]
+[ <img width="25" src="https://img.icons8.com/fluency/344/linkedin.png"  align="left" />][Linkedin]
+[ <img width="25" src="https://img.icons8.com/fluency/344/instagram-new.png" align="left"  />][instagram]
 
 
 [instagram]: https://instagram.com/aizatesen1?utm_medium=copy_link
