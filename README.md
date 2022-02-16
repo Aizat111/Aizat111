@@ -4,11 +4,10 @@
  <img src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e473b5xjgfu8yc9od3g7hg9xeue87cn1si6flw8pklx&rid=giphy.gif&ct=g" >
 
 - 🔭 I’m currently working on html, css, java swing,
-- 🌱 I’m currently learning php, java script, .net Core and Python
+- 🌱 I’m currently learning php, java script, .net Core, react and Python
 
 ### Reach out to me
-[ <img width="25" src="https://img.icons8.com/fluency/344/linkedin.png"  align="left" />][Linkedin]
-[ <img width="25" src="https://img.icons8.com/fluency/344/instagram-new.png" align="left"  />][instagram]
+[ <img width="45" src="https://img.icons8.com/fluency/344/linkedin.png"  />][Linkedin][ <img width="45" src="https://img.icons8.com/fluency/344/instagram-new.png"  />][instagram]
 
 
 [instagram]: https://instagram.com/aizatesen1?utm_medium=copy_link
