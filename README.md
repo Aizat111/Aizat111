@@ -24,6 +24,12 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width="45" height="45"/>
 
 
+<br/><br/><br>
+My github stats :eyes:
+<img src="https://github-readme-stats.vercel.app/api?username=Aizat111&theme=radical">
+ Most Used Languages :bulb:
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aizat111&layout=compact&theme=radical">
+
 
 <!--
 
