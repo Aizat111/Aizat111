@@ -28,13 +28,13 @@
 <div>
 My github stats :eyes:
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=Aizat111&theme=radical" align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Aizat111&theme=radical">
 </div>
 <br/>
 <div>
- Most Used Languages :bulb: 
+Most used languages :bulb:
 <br/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aizat111&layout=compact&theme=radical" align="left">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aizat111&layout=compact&theme=radical">
 </div>
 <!--
 
