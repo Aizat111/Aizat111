@@ -32,7 +32,6 @@ My github stats :eyes:
 </div>
 <br/>
 <div>
-Most used languages :bulb:
 <br/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aizat111&layout=compact&theme=radical">
 </div>
