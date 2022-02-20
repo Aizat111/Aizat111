@@ -32,7 +32,7 @@ My github stats :eyes:
 </div>
 <br/>
 <div>
- <h3> Most Used Languages :bulb: 
+ Most Used Languages :bulb: 
 <br/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aizat111&layout=compact&theme=radical" align="left">
 </div>
