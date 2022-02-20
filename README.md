@@ -25,12 +25,16 @@
 
 
 <br/><br/><br>
-My github stats :eyes:
-<img src="https://github-readme-stats.vercel.app/api?username=Aizat111&theme=radical">
- Most Used Languages :bulb:
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aizat111&layout=compact&theme=radical">
-
-
+<div style="padding-top:20px align:left">
+<h3>My github stats :eyes:</h3>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aizat111&theme=radical" align="left">
+</div>
+<div  >
+ <h3> Most Used Languages :bulb: 
+<br/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aizat111&layout=compact&theme=radical" align="left" style="margin-left:25px">
+</div>
 <!--
 
 - 📫 How to reach me: ...
