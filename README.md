@@ -2,6 +2,7 @@
 
 <em> Beginner Full Stack Developer :computer:</em><br/>
 <em> Student of Konya Techical University :mortar_board: </em>
+<br/>
  <img src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e473b5xjgfu8yc9od3g7hg9xeue87cn1si6flw8pklx&rid=giphy.gif&ct=g"  style="border-radius:950px" width="300" align="right">
 
  ```
@@ -14,11 +15,11 @@
  }
 ````
 
-- 🔭 I’m currently working on html, css, java swing,sql,php and react
-- 🌱 I’m currently learning java script, .net Core and Python
-
+* :briefcase: any freelance work? do reach, chat from linkedin :wink:
+* :speech_balloon: ask me about anything, i am happy to help;
 ### Reach out to me
 [ <img width="45" src="https://img.icons8.com/fluency/344/linkedin.png"  />][Linkedin][ <img width="45" src="https://img.icons8.com/fluency/344/instagram-new.png"  />][instagram]
+
 
 
 [instagram]: https://instagram.com/aizatesen1?utm_medium=copy_link
