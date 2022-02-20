@@ -2,8 +2,8 @@
 
 <em> Beginner Full Stack Developer :computer:</em><br/>
 <em> Student of Konya Techical University :mortar_board: </em>
-<br/><br/> <br/>
- <img src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e473b5xjgfu8yc9od3g7hg9xeue87cn1si6flw8pklx&rid=giphy.gif&ct=g"  style="border-radius:950px" width="300" align="right">
+<br/>
+ <img src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e473b5xjgfu8yc9od3g7hg9xeue87cn1si6flw8pklx&rid=giphy.gif&ct=g"  style="border-radius:750px" width="300" align="right">
 
  ```
  const aizat{
