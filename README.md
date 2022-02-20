@@ -1,7 +1,16 @@
 ### Hi there 👋,I'm Aizat :blush:
 
 ## Front-End Developer | 3rd Grade Student at Konya Technical University
- <img src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e473b5xjgfu8yc9od3g7hg9xeue87cn1si6flw8pklx&rid=giphy.gif&ct=g" >
+ <img src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e473b5xjgfu8yc9od3g7hg9xeue87cn1si6flw8pklx&rid=giphy.gif&ct=g"  style="border-radius:950px" width="300" align="right">
+
+ ```
+ const aizat{
+     surname: "Esenbekova",
+     nationality: "Kyrgyz",
+     character: ["energetic", "sociable", "responsible", "friendly"],
+     hobbies: ["all kind of sports" , "sing alone or with very close people", "crazy dancing"]
+ }
+````
 
 - 🔭 I’m currently working on html, css, java swing,sql,php and react
 - 🌱 I’m currently learning java script, .net Core and Python
@@ -32,6 +41,7 @@ My github stats :eyes:
 </div>
 <br/>
 <div>
+Most used languages :bulb:
 <br/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aizat111&layout=compact&theme=radical">
 </div>
