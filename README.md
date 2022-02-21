@@ -21,20 +21,34 @@
 [ <img width="45" src="https://img.icons8.com/fluency/344/linkedin.png"  />][Linkedin][ <img width="45" src="https://img.icons8.com/fluency/344/instagram-new.png"  />][instagram]
 
 
-
 [instagram]: https://instagram.com/aizatesen1?utm_medium=copy_link
 [Linkedin]: https://www.linkedin.com/in/aizatesenbekova
 
-<br/>
+### Languages and Tools
 
-### Tech I use 
+<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="45" height="45" style="margin:auto" />
 
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="45" height="45" />
+<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="45" height="45" style="margin:auto" />
+
+<img align="left" src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" width="45" height="45" />
+
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" width="45" height="45"/>
+
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="49" height="45"/>
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="49" height="45"/>
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="49" height="45"/>
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width="45" height="45"/>
 
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="49" height="45"/>
+
+<img align="left" src="https://img.icons8.com/officel/2x/react.png" width="45" height="45"/>
+
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="49" height="45"/>
+
+<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" width="45" height="45"/>
+
+<img align="left" src="https://img.icons8.com/color/2x/visual-studio--v2.png" width="45" height="45"/>
+
+<img align="left" src="https://img.icons8.com/color/2x/microsoft-sql-server.png" width="45" height="45"/>
+
+<img align="left" src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" width="45" height="45" />
 
 <br/><br/><br>
 <div>
