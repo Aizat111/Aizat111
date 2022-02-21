@@ -44,9 +44,9 @@
 
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" width="45" height="45"/>
 
-<img align="left" src="https://img.icons8.com/color/2x/visual-studio--v2.png" width="45" height="45"/>
-
 <img align="left" src="https://img.icons8.com/color/2x/microsoft-sql-server.png" width="45" height="45"/>
+
+<img align="left" src="https://img.icons8.com/color/2x/visual-studio--v2.png" width="45" height="45"/>
 
 <img align="left" src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" width="45" height="45" />
 
